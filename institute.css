@@ -1,0 +1,54 @@
+@import 'https://fonts.googleapis.com/css?family=Tangerine';
+@import 'https://fonts.googleapis.com/css?family=Oswald';
+@import 'https://fonts.googleapis.com/css?family=Cyrillic';
+
+
+body{
+	background-color: brown; 
+}
+
+h1{
+	font-family: "Cyrillic", serif;
+	font-size: 72px;
+	font-weight:bold;
+	text-align: center;
+	color: red;
+}
+h2{
+	font-family: "Oswald", serif;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	color: blue;
+}
+.left{
+   float:left;
+}
+.right{
+	float: right;
+}
+p1 p{
+	font-family: "Tangerine" , serif;
+	font-size: 30px;
+	font-weight: 700;
+	background: pink;
+	margin-top: 0;
+}
+
+q p{
+	font-family: "Tangerine" , serif;
+	font-size: 30px;
+	font-weight: 700;
+	background: lightgreen;
+	
+}
+r p{
+	font-family: "Tangerine" , serif;
+	font-size: 30px;
+	font-weight: 700;
+	background: lightblue;
+	margin-bottom: 0;
+}
+.list-group a{	
+	color:#ffffff;
+}

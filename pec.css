@@ -1,0 +1,140 @@
+@import 'https://fonts.googleapis.com/css?family=Tangerine';
+@import 'https://fonts.googleapis.com/css?family=Oswald';
+@import 'https://fonts.googleapis.com/css?family=Cyrillic';
+
+.fix{
+	background: brown;
+	position: fixed;
+}
+
+nav li{
+	display: inline;
+	padding-right: 10px;
+	font-size: 24;
+}
+li a{
+    color: #ffffff;
+ }
+
+.fix img{
+	padding-right: 498px;
+}
+
+.content {
+    background-color: lightblue;
+}
+.content h1 {
+	font-family: 'Cyrillic', serif;
+    padding-left: 100px;
+    padding-top: 50px;
+    font-size: 72;
+}
+body h2{
+	font-family: 'Tangerine', serif;
+	font-size: 64;
+}
+
+a:hover{
+	color: pink;
+	font-style: italic;
+	font-weight: 500;
+}
+
+nav{
+	float: right;
+}
+
+hero h2{
+	font-weight: 700;
+	letter-spacing: 1px;
+	color: #333;
+	text-transform: uppercase;
+	font-family: 'Oswald', serif;
+    font-size: 48px;
+	margin: 20px;
+	}
+hero h3{
+	font-family: 'Tangerine', serif;
+    font-size: 48px;
+	display: block;
+	font-weight: 300;
+	color: #777;
+	margin:20px;
+}
+
+hero img{
+     width: 100%;
+     height: 100%;
+}
+
+article1 img{
+	float: left;
+}
+article1 h2{
+	font-weight: 700;
+	letter-spacing: 1px;
+	color: #333;
+	font-family: 'Oswald', serif;
+    font-size: 48px;
+}
+article1 h3{
+	font-family: 'Tangerine', serif;
+    font-size: 48px;
+	display: block;
+	font-weight: 700;
+	color: darkblue;
+}
+
+article1 p{
+	font-weight: 900;
+    color: white;
+}
+
+section img{
+	width: 100%;
+	height: 400;
+	margin-right: 10px;
+}
+
+section{
+	margin:0;
+}
+
+hr { 
+    display: block;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 2px;
+}
+
+.left{
+	margin:auto;
+	float:left;
+}
+.right{
+	float: right;
+	margin: auto;
+}
+
+article2 h2{
+   font-family: 'Cyrillic', serif;
+   font-size: 36;
+}
+article3 h2{
+   font-family: 'Cyrillic', serif;
+   font-size: 36;
+}
+
+footer li{
+	display: inline;
+}
+footer li a{
+	color: blue;
+	text-align: right;
+}
+footer ul{
+	text-align: right;
+}

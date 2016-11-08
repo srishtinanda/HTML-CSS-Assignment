@@ -1,0 +1,27 @@
+@import 'https://fonts.googleapis.com/css?family=Tangerine';
+li{
+     list-style: none;
+     }
+label{
+	display: block;
+	cursor: pointer;
+	font-size: 36px;
+	font-weight: 700;
+
+}
+#top{
+	margin-top: 50px;
+}
+div{
+	margin-bottom: 20px;
+}
+body p{
+	font-size: 72;
+	font-family: "Tangerline" , serif;
+	padding-left: 325px;
+	padding-top: 200px;
+}
+body{
+	background : lightblue;
+}
+
